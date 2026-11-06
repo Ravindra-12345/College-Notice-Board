@@ -1,0 +1,6 @@
+{
+  "name": "Campus Notice Board",
+  "description": "A modern Flutter & Android College Notice Board application with Material Design 3, Provider state management, and offline local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
